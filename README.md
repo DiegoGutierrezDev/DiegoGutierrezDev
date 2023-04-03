@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on a personal Portfolio
 
-- 🌱 I’m currently learning Javascript, Python and Angular
+- 🌱 I’m currently learning Laravel, Vue.js, Nuxt.js
 
-- 👯 I’m looking to collaborate on web projects
+- 👯 I’m looking to learn, practise and get better!
 
 - 💬 Ask me about HTML, CSS, Javascript and Vue.js
 

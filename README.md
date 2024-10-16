@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegogutierrezdev&label=Profile%20views&color=0e75b6&style=flat" alt="diegogutierrezdev" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue.js, Nuxt.js**
+- 🌱 I’m currently developing in **Vue.js, Nuxt.js, Javascript, Laravel, PHP**
 
-- 👨‍💻 All of my projects are available at [https://diegogutierrezdev.github.io/Personal-Portfolio/](https://diegogutierrezdev.github.io/Personal-Portfolio/)
+- 👨‍💻 My personal Portfolio is here: [https://diegogutierrezdev.github.io/Personal-Portfolio/](https://diegogutierrezdev.github.io/Personal-Portfolio/)
 
-- 💬 Ask me about **Javascript, Vue.js, Laravel**
-
-- 📫 How to reach me **gutierrezmaria.diego@gmail.com**
+- 📫 You can contact me here: **Gutierrezmaria.diego@gmail.com**
 
 - ⚡ Fun fact **I worked in a bakery when I decided to become a Developer!**
 

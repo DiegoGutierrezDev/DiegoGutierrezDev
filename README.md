@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently developing in **Vue.js, VueX, Nuxt.js, Javascript, Laravel, PHP**
 
-- 👨‍💻 My personal Portfolio is here: [https://diegogutierrezdev.github.io/Personal-Portfolio/](https://diegogutierrezdev.github.io/Personal-Portfolio/)
+- 👨‍💻 My personal Portfolio is here: [https://diegogutierrezdev.github.io/Personal-Portfolio/](https://diegogutierrezdev.github.io/Personal-Portfolio/) but I'm working on another one ;)
 
 - 📫 You can contact me here: **Gutierrezmaria.diego@gmail.com**
 
